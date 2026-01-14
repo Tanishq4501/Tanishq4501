@@ -195,27 +195,6 @@ Chat with PDF documents using AI. Upload any PDF and ask questions, get summarie
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanishq4501&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq4501&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanishq4501&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanishq4501&theme=react-dark&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishq4501&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
 ## 🎯 Current Focus
 
 ```python
