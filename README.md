@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:880E4F&width=100000000&height=100&section=header" />
+
 # 👋 Hey, I'm Tanishq Choudhary
 
 ### AI Engineer | Full Stack Developer | Building Intelligent Solutions
@@ -262,6 +264,4 @@ I'm always interested in working on innovative projects involving:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishqchoudhary-tc)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanishq4501)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1744,100:880E4F&height=100&section=footer" /></div>
